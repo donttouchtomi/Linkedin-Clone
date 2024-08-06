@@ -110,7 +110,7 @@
   margin-top: 20px;
   border: 1px solid rgb(60, 64, 67);
   cursor: pointer;
-
+  
 }
 
 .text-section button:hover {
@@ -118,6 +118,9 @@
   border: 2px solid rgb(60, 64, 67);
 }
 
+.text-section button>img {
+  margin: 0 15px;
+}
 .text-section .text {
   width: 400px;
   height: 52px;
